@@ -172,6 +172,10 @@ Dolphin is a browser for the zeb network to display a graph of message graph thr
 
 ### Integrating into the Existing Environment
 
+p2p test env: http://54.151.255.61:13333/rpc13333
+gateway test env: http://52.221.181.98:8080/gateway
+Pegion chrome extension: https://github.com/NagaraTech/z-message-extension/actions/runs/9362056141
+
 1. After downloading the Chrome extension
 2. add an RPC
 3. create or add an account
